@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:2:1-17:12
+MERGED from [polar-protobuf-release.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\c8c52b13bafe5f84f40b7f757585a4c8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\f26725bb670d5156e51cfdca34f74bc9\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\dd11b100b070910a8b02463658343427\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\b110757fa9c105d8d4ba9ca6b9b90985\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\f8b23ea089a8f53d60213da58b6171d3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\ba6dd1b5f6aa5a5dcc6d087ef4be1d91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3b6145cc45542a939c8d6f9130f7057c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\88aeda15ff39da52294b4ae843d2526d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\e59a447fe282801aa3452a261bffbc26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\d5a66e6e4d1239ca2381acd7a9062852\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\9fa3dbbb6db520fb9f5cd1ae59b4d4cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\214817afa41f3e45797c4730610fc5db\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\199c50339eee2527f674446395c3d4cd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\ca9d802439f61a4b3fd0875a7df9391d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\d223098af5b36589a40aedff812c34cb\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:5:5-68
+MERGED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:11:5-68
+MERGED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:6:5-74
+MERGED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:13:5-74
+MERGED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:14:5-81
+MERGED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\f8b23ea089a8f53d60213da58b6171d3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\f8b23ea089a8f53d60213da58b6171d3\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:15:9-40
+activity#polar.com.androidblesdk.MainActivity
+ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:18:13-49
+	android:configChanges
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:17:13-48
+	android:name
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+MERGED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:7:5-9:41
+MERGED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:7:5-9:41
+MERGED from [polar-protobuf-release.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\c8c52b13bafe5f84f40b7f757585a4c8\AndroidManifest.xml:7:5-9:41
+MERGED from [polar-protobuf-release.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\c8c52b13bafe5f84f40b7f757585a4c8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\f26725bb670d5156e51cfdca34f74bc9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\f26725bb670d5156e51cfdca34f74bc9\AndroidManifest.xml:20:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\dd11b100b070910a8b02463658343427\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\dd11b100b070910a8b02463658343427\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\b110757fa9c105d8d4ba9ca6b9b90985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\b110757fa9c105d8d4ba9ca6b9b90985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\f8b23ea089a8f53d60213da58b6171d3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\f8b23ea089a8f53d60213da58b6171d3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\ba6dd1b5f6aa5a5dcc6d087ef4be1d91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\ba6dd1b5f6aa5a5dcc6d087ef4be1d91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3b6145cc45542a939c8d6f9130f7057c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3b6145cc45542a939c8d6f9130f7057c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\88aeda15ff39da52294b4ae843d2526d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\88aeda15ff39da52294b4ae843d2526d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\e59a447fe282801aa3452a261bffbc26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\e59a447fe282801aa3452a261bffbc26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\d5a66e6e4d1239ca2381acd7a9062852\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\d5a66e6e4d1239ca2381acd7a9062852\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\9fa3dbbb6db520fb9f5cd1ae59b4d4cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\9fa3dbbb6db520fb9f5cd1ae59b4d4cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\214817afa41f3e45797c4730610fc5db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\214817afa41f3e45797c4730610fc5db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\199c50339eee2527f674446395c3d4cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\199c50339eee2527f674446395c3d4cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\ca9d802439f61a4b3fd0875a7df9391d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\ca9d802439f61a4b3fd0875a7df9391d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\d223098af5b36589a40aedff812c34cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\d223098af5b36589a40aedff812c34cb\AndroidManifest.xml:20:5-44
+INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+		ADDED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Software\Android\polar-example\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [polar-ble-sdk.aar] C:\Users\brita\.gradle\caches\transforms-2\files-2.1\3e922c083bafcc0af5afd6be692b5804\AndroidManifest.xml:15:22-76
